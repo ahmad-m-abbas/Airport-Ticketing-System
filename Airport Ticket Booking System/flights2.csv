@@ -1,0 +1,3 @@
+Id,DepartureCountry,DestinationCountry,DepartureDate,DepartureAirport,ArrivalAirport,PriceEconomy,PriceBusiness,PriceFirstClass,AvailableSeatsEconomy,AvailableSeatsBusiness,AvailableSeatsFirstClass
+101,Lithuania,Micronesia,04/03/2024 00:00:00,Brettfort,North Janicechester,359.62,1888.5,4264.65,10,10,3
+102,Libyan Arab Jamahiriya,San Marino,12/17/2023 00:00:00,Jacquelinestad,North Adam,326.93,1069.35,4302.1,30,11,9
