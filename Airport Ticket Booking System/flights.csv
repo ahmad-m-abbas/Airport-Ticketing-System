@@ -1,0 +1,105 @@
+Id,DepartureCountry,DestinationCountry,DepartureDate,DepartureAirport,ArrivalAirport,PriceEconomy,PriceBusiness,PriceFirstClass,AvailableSeatsEconomy,AvailableSeatsBusiness,AvailableSeatsFirstClass
+1,Lithuania,Micronesia,04/03/2024 00:00:00,Brettfort,North Janicechester,359.62,1888.5,4264.65,10,10,3
+2,Libyan Arab Jamahiriya,San Marino,12/17/2023 00:00:00,Jacquelinestad,North Adam,326.93,1069.35,4302.1,30,11,9
+3,Indonesia,France,08/28/2024 00:00:00,Greenberg,Henryton,962.46,1261.17,2716.85,25,20,4
+4,Lithuania,Paraguay,05/30/2024 00:00:00,Justintown,Eddieshire,821.95,1847.5,4168.07,39,10,2
+5,Tokelau,Chile,12/04/2023 00:00:00,Lake Alexandermouth,East Brandy,847.07,1980.39,2994.24,43,18,5
+6,Cape Verde,Norway,10/23/2023 00:00:00,Lake Monicaland,Carterburgh,217.67,1039.26,3875.52,21,9,5
+7,Fiji,Iran,08/30/2024 00:00:00,Hansonview,Haynesborough,914.1,1880.68,2091.5,15,5,5
+8,Hungary,Hungary,09/20/2024 00:00:00,West Kennethmouth,Shannonburgh,296.8,1110.64,3406.79,48,7,5
+9,Ethiopia,Marshall Islands,09/07/2024 00:00:00,New Michaelburgh,Ibarraville,764.81,1061.34,3397.96,24,16,6
+10,Greece,Saint Helena,04/15/2024 00:00:00,North Danielle,New Jesus,796.57,1300.92,3503.77,11,15,8
+11,Saint Lucia,Madagascar,03/17/2024 00:00:00,Jacquelinetown,Brianport,285.08,1789.66,2628.47,15,8,9
+12,Guam,Lithuania,08/01/2024 00:00:00,Katrinachester,Colonland,834.04,1326.13,2346.92,44,11,5
+13,Venezuela,Cameroon,10/02/2024 00:00:00,Petertown,North Christopherhaven,526.71,1005.52,3725.96,12,19,9
+14,San Marino,Ethiopia,04/26/2024 00:00:00,West Daniel,Cabrerafurt,230.87,1178.71,4632.33,38,20,9
+15,Cocos (Keeling) Islands,Israel,05/27/2024 00:00:00,Amberberg,Richport,288.88,1603.43,3714.45,27,17,8
+16,Holy See (Vatican City State),French Guiana,08/08/2024 00:00:00,Hansonfort,New Robert,318.51,1549.8,2978.24,43,15,2
+17,Bangladesh,Spain,03/02/2024 00:00:00,Scottchester,Kristophertown,368.22,1319.61,3635.36,44,7,10
+18,Turks and Caicos Islands,Cuba,10/23/2023 00:00:00,Port Keith,Garciaport,254.51,1191.14,2194.7,39,5,7
+19,Maldives,Iceland,02/16/2024 00:00:00,Andrewstad,Jimmyhaven,735.68,1948.43,4934.38,16,20,2
+20,Tokelau,United Kingdom,04/28/2024 00:00:00,North Stephanie,Joeshire,674.03,1945.2,3833.49,16,14,9
+21,Palestinian Territory,United States Minor Outlying Islands,03/25/2024 00:00:00,Salazarbury,East Markmouth,207.03,1302.21,3625.04,26,17,1
+22,Anguilla,Tonga,09/23/2024 00:00:00,New Sandra,Donaldton,167.73,1005.21,4386.76,44,5,10
+23,Tanzania,Gambia,09/18/2024 00:00:00,West Alexander,Barryborough,703.59,1699.08,2529.91,15,6,9
+24,Netherlands,Hungary,02/26/2024 00:00:00,East Elizabeth,Amandafort,935.82,1888.97,4463.33,48,11,4
+25,Nauru,Slovenia,07/02/2024 00:00:00,Pattersonshire,Maysport,516.39,1964.07,4011.19,36,16,1
+26,Western Sahara,Sierra Leone,01/11/2024 00:00:00,East Lesliebury,Cookchester,684.17,1377.29,2702.7,26,17,2
+27,Bahrain,Reunion,10/24/2023 00:00:00,West Sally,Danielburgh,284.87,1363.96,2228.06,27,18,7
+28,Estonia,Jamaica,09/08/2024 00:00:00,Jessicaview,West Beverly,178.34,1632.39,2820.87,12,17,9
+29,Central African Republic,Ireland,09/16/2024 00:00:00,Shannonmouth,South Jasonland,838.2,1482.76,2935.49,19,17,1
+30,Indonesia,Faroe Islands,09/16/2024 00:00:00,West Kevinside,Port Virginialand,478.49,1568.48,2541.03,47,11,5
+31,Turks and Caicos Islands,Antigua and Barbuda,05/06/2024 00:00:00,South Stacy,East Elizabeth,844.67,1359.68,3457.37,39,9,6
+32,Brunei Darussalam,Tunisia,08/27/2024 00:00:00,Kyleburgh,Kinghaven,574.77,1402.85,3938.04,27,20,3
+33,Martinique,Haiti,08/31/2024 00:00:00,Lake Sandra,Whiteshire,163.68,1386.26,4100.48,28,14,10
+34,Nigeria,Romania,04/01/2024 00:00:00,New Franciscohaven,New Amymouth,241.71,1429.63,2193.28,44,15,9
+35,Korea,Guyana,12/28/2023 00:00:00,Anthonyside,Rodriguezhaven,816.91,1295.27,2890.37,44,12,9
+36,Egypt,Vietnam,12/27/2023 00:00:00,East Derekshire,Griffinton,698.47,1513.27,3911.12,31,18,8
+37,Lesotho,Angola,11/27/2023 00:00:00,Clarkbury,South Lindsey,957.0,1492.78,3672.78,11,9,2
+38,Montserrat,Puerto Rico,03/14/2024 00:00:00,Lake Justin,Scottland,462.1,1614.36,4859.23,42,12,7
+39,Ukraine,Turkey,12/20/2023 00:00:00,Ronaldchester,Port Joshua,274.02,1266.05,2997.64,17,13,4
+40,Venezuela,Mongolia,09/29/2024 00:00:00,West Brittanyhaven,East Mindy,518.42,1817.41,3914.99,41,7,2
+41,Congo,France,03/17/2024 00:00:00,Jodiburgh,West Jessechester,191.45,1748.18,4773.97,43,7,9
+42,Marshall Islands,Seychelles,02/07/2024 00:00:00,South Danielfurt,East Kayla,186.15,1533.82,3961.36,21,10,7
+43,Zimbabwe,Anguilla,02/10/2024 00:00:00,Leachberg,Alishafort,504.8,1383.92,4836.29,33,18,5
+44,Ethiopia,United Kingdom,01/31/2024 00:00:00,Fergusonside,Markville,153.29,1548.09,2203.63,11,18,7
+45,Libyan Arab Jamahiriya,Finland,02/11/2024 00:00:00,Johnsonport,North Stephen,402.2,1205.48,2628.69,40,13,4
+46,India,Andorra,01/26/2024 00:00:00,Ramirezmouth,Ballardhaven,815.73,1262.11,2291.21,44,8,7
+47,United Kingdom,Guinea,07/30/2024 00:00:00,Jensenmouth,Lake Rebecca,121.24,1296.27,2998.2,34,20,3
+48,Libyan Arab Jamahiriya,Hong Kong,06/06/2024 00:00:00,East Nancy,New Rachelville,940.7,1074.31,2638.31,20,12,3
+49,Netherlands,Tokelau,07/31/2024 00:00:00,South Jennifer,South Christinastad,640.19,1387.19,3103.34,25,17,3
+50,Reunion,Aruba,09/23/2024 00:00:00,Erinland,Port Heather,574.71,1047.02,4184.9,34,12,7
+51,Tanzania,Iran,01/05/2024 00:00:00,South Carolburgh,North Ambertown,748.37,1424.68,3430.31,33,8,7
+52,Burundi,Iraq,06/18/2024 00:00:00,Catherineburgh,Henryburgh,974.4,1369.71,3695.71,29,11,7
+53,Guyana,Belarus,05/05/2024 00:00:00,West Ashley,South Christopher,813.26,1640.8,4122.0,38,19,9
+54,Kuwait,Libyan Arab Jamahiriya,11/28/2023 00:00:00,Roseview,Watsonfort,471.34,1128.68,3061.72,12,8,3
+55,Lebanon,United States Minor Outlying Islands,12/08/2023 00:00:00,Riveraport,Briannaburgh,782.76,1535.21,4356.96,15,15,8
+56,Iceland,Vietnam,10/31/2023 00:00:00,Hebertfurt,Jennifermouth,122.39,1926.21,2456.25,38,12,9
+57,Eritrea,Congo,01/09/2024 00:00:00,North Lauren,East Andrewfort,864.79,1056.94,2985.28,44,17,2
+58,Holy See (Vatican City State),Guatemala,10/25/2023 00:00:00,Heatherport,Mitchellburgh,352.62,1442.1,3992.95,41,15,10
+59,Peru,Isle of Man,07/28/2024 00:00:00,South Jacob,East Michael,601.13,1837.57,4672.73,41,13,10
+60,Bangladesh,Qatar,02/04/2024 00:00:00,Markburgh,Dixonfort,311.08,1124.5,2753.4,15,16,1
+61,Solomon Islands,Hong Kong,05/12/2024 00:00:00,Burchside,Dixonfort,761.28,1230.42,4798.1,45,6,6
+62,Netherlands,Libyan Arab Jamahiriya,07/15/2024 00:00:00,South Bryanside,Sarahfort,599.53,1623.46,3952.95,44,17,8
+63,Belize,Saudi Arabia,04/27/2024 00:00:00,Morrisstad,North David,151.12,1109.8,2624.85,36,11,10
+64,Cook Islands,Syrian Arab Republic,10/10/2024 00:00:00,New Gabrielachester,Lake Kyle,939.13,1280.44,4524.4,26,10,7
+65,Macao,Russian Federation,08/30/2024 00:00:00,Glennfort,Lake Tracy,945.62,1233.53,2097.74,50,13,8
+66,United Kingdom,Guatemala,09/30/2024 00:00:00,Amyborough,West Glen,661.72,1295.06,3062.35,20,18,4
+67,Kyrgyz Republic,Kenya,03/09/2024 00:00:00,Juanmouth,Port Paulmouth,782.8,1573.38,4745.61,11,5,4
+68,United States Virgin Islands,Montserrat,04/24/2024 00:00:00,Rebeccafurt,Davisfurt,327.08,1732.96,2164.06,17,18,4
+69,American Samoa,Spain,03/01/2024 00:00:00,East Tylerhaven,North Johnville,109.1,1899.84,3549.73,44,20,1
+70,Guadeloupe,Niger,11/30/2023 00:00:00,Wisefort,Garciachester,697.14,1217.42,2689.05,34,5,3
+71,Guinea,Lithuania,03/15/2024 00:00:00,Fordmouth,Jeffreyburgh,175.08,1543.28,2776.17,33,20,5
+72,Guadeloupe,Northern Mariana Islands,10/08/2024 00:00:00,Sandersborough,Joelmouth,328.42,1203.57,3016.47,50,17,2
+73,Luxembourg,Faroe Islands,05/17/2024 00:00:00,East Aaron,Moniquefurt,945.2,1715.94,3975.38,22,9,4
+74,New Caledonia,Hungary,03/24/2024 00:00:00,Spencerchester,Lisamouth,586.14,1280.68,2394.71,32,20,8
+75,Romania,Comoros,02/09/2024 00:00:00,Meganbury,South Paige,916.89,1323.27,3505.46,33,18,9
+76,South Africa,Brunei Darussalam,04/20/2024 00:00:00,West Jamesmouth,Lake Tylerbury,580.47,1174.16,3187.25,38,12,10
+77,Sierra Leone,Serbia,11/21/2023 00:00:00,Mclaughlinburgh,Mcleanborough,764.89,1301.04,2624.94,40,11,5
+78,Heard Island and McDonald Islands,Cook Islands,06/09/2024 00:00:00,Port Ashleyside,Lake Rubenshire,681.42,1400.27,3864.97,31,20,8
+79,Georgia,Trinidad and Tobago,06/06/2024 00:00:00,Port Billyview,Lake Don,677.61,1360.01,4478.69,13,19,1
+80,Mongolia,Sri Lanka,08/06/2024 00:00:00,New Michelle,Port Aaron,678.61,1005.38,4181.31,17,5,1
+81,Guyana,Bolivia,10/31/2023 00:00:00,Kramerside,Jennyfort,870.23,1863.89,3107.34,22,14,9
+82,Cape Verde,Korea,11/10/2023 00:00:00,New Patricia,Lake Victorbury,281.62,1519.42,4310.65,46,17,8
+83,Congo,Gambia,05/02/2024 00:00:00,West Kathrynville,Jasonchester,295.22,1347.0,3284.28,40,6,6
+84,Montenegro,Rwanda,05/04/2024 00:00:00,Chelseybury,Arthurtown,805.08,1707.61,3789.47,15,20,4
+85,Brunei Darussalam,Cambodia,12/24/2023 00:00:00,North Breanna,Nicolestad,421.76,1375.21,4907.11,33,11,8
+86,Bangladesh,Poland,07/12/2024 00:00:00,Wrighthaven,South Kelly,368.26,1779.34,2147.76,18,13,6
+87,Guinea,Estonia,02/25/2024 00:00:00,South Colemouth,North Melissashire,490.77,1804.59,3456.21,29,18,9
+88,Cameroon,Moldova,11/24/2023 00:00:00,West Crystalstad,Lake Rebecca,944.43,1380.48,2100.93,10,20,1
+89,Montenegro,Uzbekistan,07/21/2024 00:00:00,Jackborough,Walterborough,793.49,1629.64,2189.93,10,9,3
+90,Zimbabwe,Monaco,05/30/2024 00:00:00,East Stephenstad,East Gordonfort,673.08,1343.65,2333.05,19,17,7
+91,Mauritius,Malta,05/31/2024 00:00:00,North Kyleburgh,Carrieport,660.17,1104.72,3280.3,31,5,7
+92,Yemen,Micronesia,10/23/2023 00:00:00,East Brianna,Lake Jonathan,776.58,1627.88,4287.61,36,13,2
+93,Antigua and Barbuda,Indonesia,05/01/2024 00:00:00,Martinezfurt,West Brianborough,862.77,1643.77,4728.01,23,9,7
+94,Mexico,Mozambique,01/15/2024 00:00:00,Port Anthonyview,Dawnport,344.6,1232.19,3524.04,45,8,10
+95,Anguilla,Germany,04/21/2024 00:00:00,North Dianeburgh,South Stephen,471.68,1462.82,2782.58,30,10,10
+96,Korea,Guernsey,03/04/2024 00:00:00,Amandaport,East Sandraville,915.13,1721.48,4237.24,33,10,1
+97,Papua New Guinea,Georgia,07/09/2024 00:00:00,East Denise,West Dianeberg,918.97,1763.64,3654.34,19,13,9
+98,Western Sahara,Nepal,11/20/2023 00:00:00,North Davidhaven,East Amberfurt,245.05,1979.28,4596.08,32,14,6
+99,Antigua and Barbuda,Poland,08/12/2024 00:00:00,New Janeberg,West Todd,912.85,1130.24,2405.59,26,9,6
+100,Philippines,Switzerland,09/06/2024 00:00:00,West Biancastad,Gateschester,899.08,1169.92,4222.25,39,7,5
+101,Lithuania,Micronesia,04/03/2024 00:00:00,Brettfort,North Janicechester,359.62,1888.5,4264.65,10,10,3
+102,Libyan Arab Jamahiriya,San Marino,12/17/2023 00:00:00,Jacquelinestad,North Adam,326.93,1069.35,4302.1,30,11,9
+101,Lithuania,Micronesia,04/03/2024 00:00:00,Brettfort,North Janicechester,359.62,1888.5,4264.65,10,10,3
+102,Libyan Arab Jamahiriya,San Marino,12/17/2023 00:00:00,Jacquelinestad,North Adam,326.93,1069.35,4302.1,30,11,9
